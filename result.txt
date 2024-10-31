@@ -1,0 +1,473 @@
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. data integration expertise
+2. etl  /  elt tools
+3. sql  &  big data
+4. unix shell scripting
+5. python programming
+6. data warehousing
+7. storage
+8. database
+9. data structures
+10. software engineering
+11. information management
+12. machine learning
+13. splunk
+========
+
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. data modeling techniques
+2. azure data factory
+3. data migration solutions
+4. database schema design
+5. data pipeline management
+6. sql
+7. postgresql
+8. software engineering
+========
+
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. data modeling expertise
+2. azure data factory
+3. data migration techniques
+4. database schema design
+5. data pipeline management
+6. sql
+7. postgresql
+8. software engineering
+========
+
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. data modeling expertise
+2. azure data factory
+3. database schema design
+4. data migration best practices
+5. data pipeline management
+6. sql
+7. postgresql
+8. software engineering
+========
+
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. data warehousing expertise
+2. etl process knowledge
+3. python scripting skills
+4. big data experience
+5. cloud technologies familiarity
+6. storage
+7. sql
+8. database
+9. unix shell scripting
+10. data structures
+11. software engineering
+12. information management
+13. machine learning
+14. splunk
+========
+
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. sql concepts
+2. etl tools
+3. big data technologies
+4. data modeling
+5. data warehousing
+6. hive
+7. data structures
+8. hadoop
+9. sqoop
+========
+
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. sql
+2. etl
+3. big data
+4. data modeling
+5. distributed systems
+6. hive
+7. data warehousing
+8. data structures
+9. hadoop
+10. sqoop
+========
+
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. data warehousing expertise
+2. etl tool proficiency
+3. unix shell scripting
+4. python programming
+5. cloud data migration
+6. bi
+7. storage
+8. sql
+9. database
+10. data structures
+11. software engineering
+12. big data
+13. information management
+14. machine learning
+15. splunk
+========
+
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. data integration expertise
+2. etl tool proficiency
+3. cloud technology knowledge
+4. python scripting experience
+5. sql database skills
+6. bi
+7. data warehousing
+8. storage
+9. unix shell scripting
+10. data structures
+11. software engineering
+12. big data
+13. information management
+14. machine learning
+15. splunk
+========
+
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. data warehousing expertise
+2. etl tool proficiency
+3. cloud data migration
+4. big data technologies
+5. python  &  unix scripting
+6. storage
+7. sql
+8. database
+9. unix shell scripting
+10. data structures
+11. software engineering
+12. information management
+13. machine learning
+14. splunk
+========
+
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. etl workflow development
+2. sql data modeling
+3. agile project management
+4. production support
+5. data analysis tools
+6. sharepoint
+7. debugging
+8. software engineering
+9. triggers
+10. unix
+========
+
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. data modeling
+2. erwin expertise
+3. etl knowledge
+4. mdm techniques
+5. business analysis
+6. data engineer
+7. database
+8. software engineering
+========
+
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. data warehousing expertise
+2. etl tool proficiency
+3. cloud migration skills
+4. unix scripting experience
+5. sql  &  big data
+6. storage
+7. database
+8. unix shell scripting
+9. data structures
+10. software engineering
+11. python
+12. information management
+13. machine learning
+14. splunk
+========
+
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. big data technologies
+2. data engineering
+3. python programming
+4. etl processes
+5. apache spark
+6. hive
+7. scala
+8. security
+9. git
+10. java
+11. devops
+12. software engineering
+13. hadoop
+14. hbase
+15. infrastructure
+========
+
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. data structures  &  sql
+2. etl tools
+3. big data technologies
+4. data modeling
+5. code performance
+6. hive
+7. data warehousing
+8. hadoop
+9. sqoop
+========
+
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. data structures
+2. sql concepts
+3. etl tools
+4. big data technologies
+5. distributed systems
+6. hive
+7. data warehousing
+8. hadoop
+9. sqoop
+========
+
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. data warehousing expertise
+2. etl tool proficiency
+3. cloud migration skills
+4. sql and big data
+5. unix and python scripting
+6. storage
+7. database
+8. unix shell scripting
+9. data structures
+10. software engineering
+11. information management
+12. machine learning
+13. splunk
+========
+
+Companies:
+axmiyan hr solutions private limited
+Data Engineer
+
+Skills:
+1. reports
+2. data mining
+3. database design
+4. database
+5. procedures
+========
+
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. big data engineering
+2. hadoop  &  spark
+3. python development
+4. data pipeline construction
+5. etl process implementation
+6. hive
+7. scala
+8. security
+9. git
+10. apache
+11. java
+12. devops
+13. software engineering
+14. hbase
+15. infrastructure
+========
+
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. data warehousing expertise
+2. etl tool proficiency
+3. cloud computing knowledge
+4. unix shell scripting
+5. predictive modeling techniques
+6. bi
+7. storage
+8. sql
+9. database
+10. data structures
+11. software engineering
+12. big data
+13. python
+14. information management
+15. machine learning
+16. splunk
+========
+
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. big data engineering
+2. data pipeline development
+3. etl process optimization
+4. python programming
+5. apache spark framework
+6. hive
+7. scala
+8. security
+9. git
+10. java
+11. devops
+12. software engineering
+13. hadoop
+14. hbase
+15. infrastructure
+========
+
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. big data solutions
+2. python programming
+3. data engineering
+4. etl processes
+5. hadoop  &  spark
+6. hive
+7. scala
+8. security
+9. git
+10. apache
+11. java
+12. devops
+13. software engineering
+14. hbase
+15. infrastructure
+========
+
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. big data engineering
+2. etl processes
+3. data pipeline development
+4. python programming
+5. apache spark
+6. hive
+7. scala
+8. security
+9. git
+10. java
+11. devops
+12. software engineering
+13. hadoop
+14. hbase
+15. infrastructure
+========
+
+Companies:
+IBM India Pvt Ltd
+Data Engineer
+
+Skills:
+1. big data solutions
+2. etl processes
+3. data infrastructure
+4. python programming
+5. apache spark
+6. hive
+7. scala
+8. security
+9. git
+10. java
+11. devops
+12. software engineering
+13. hadoop
+14. hbase
+========
+
+Companies:
+volvo group india pvt ltd
+Data Engineer
+
+Skills:
+1. data governance management
+2. metadata management
+3. stakeholder communication
+4. data management tools
+5. agile methodologies
+6. data manager
+7. bi
+8. data modeling
+9. data transformation
+10. infrastructure
+11. informatica
+========
+
