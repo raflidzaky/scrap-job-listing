@@ -1,5 +1,7 @@
 Companies:
 IBM India Pvt Ltd
+
+Positions:
 Data Engineer
 
 Skills:
@@ -16,10 +18,12 @@ Skills:
 11. information management
 12. machine learning
 13. splunk
-========
+============================================
 
 Companies:
 IBM India Pvt Ltd
+
+Positions:
 Data Engineer
 
 Skills:
@@ -31,25 +35,12 @@ Skills:
 6. sql
 7. postgresql
 8. software engineering
-========
+============================================
 
 Companies:
 IBM India Pvt Ltd
-Data Engineer
 
-Skills:
-1. data modeling expertise
-2. azure data factory
-3. data migration techniques
-4. database schema design
-5. data pipeline management
-6. sql
-7. postgresql
-8. software engineering
-========
-
-Companies:
-IBM India Pvt Ltd
+Positions:
 Data Engineer
 
 Skills:
@@ -61,18 +52,37 @@ Skills:
 6. sql
 7. postgresql
 8. software engineering
-========
+============================================
 
 Companies:
 IBM India Pvt Ltd
+
+Positions:
 Data Engineer
 
 Skills:
-1. data warehousing expertise
+1. data modeling expertise
+2. azure data factory
+3. data migration techniques
+4. database schema design
+5. data pipeline management
+6. sql
+7. postgresql
+8. software engineering
+============================================
+
+Companies:
+IBM India Pvt Ltd
+
+Positions:
+Data Engineer
+
+Skills:
+1.   data warehousing expertise
 2. etl process knowledge
 3. python scripting skills
 4. big data experience
-5. cloud technologies familiarity
+5. cloud technologies familiarity 
 6. storage
 7. sql
 8. database
@@ -82,43 +92,12 @@ Skills:
 12. information management
 13. machine learning
 14. splunk
-========
+============================================
 
 Companies:
 IBM India Pvt Ltd
-Data Engineer
 
-Skills:
-1. sql concepts
-2. etl tools
-3. big data technologies
-4. data modeling
-5. data warehousing
-6. hive
-7. data structures
-8. hadoop
-9. sqoop
-========
-
-Companies:
-IBM India Pvt Ltd
-Data Engineer
-
-Skills:
-1. sql
-2. etl
-3. big data
-4. data modeling
-5. distributed systems
-6. hive
-7. data warehousing
-8. data structures
-9. hadoop
-10. sqoop
-========
-
-Companies:
-IBM India Pvt Ltd
+Positions:
 Data Engineer
 
 Skills:
@@ -137,10 +116,12 @@ Skills:
 13. information management
 14. machine learning
 15. splunk
-========
+============================================
 
 Companies:
 IBM India Pvt Ltd
+
+Positions:
 Data Engineer
 
 Skills:
@@ -159,10 +140,12 @@ Skills:
 13. information management
 14. machine learning
 15. splunk
-========
+============================================
 
 Companies:
 IBM India Pvt Ltd
+
+Positions:
 Data Engineer
 
 Skills:
@@ -180,10 +163,49 @@ Skills:
 12. information management
 13. machine learning
 14. splunk
-========
+============================================
 
 Companies:
 IBM India Pvt Ltd
+
+Positions:
+Data Engineer
+
+Skills:
+1. sql concepts
+2. etl tools
+3. big data technologies
+4. data modeling
+5. data warehousing
+6. hive
+7. data structures
+8. hadoop
+9. sqoop
+============================================
+
+Companies:
+IBM India Pvt Ltd
+
+Positions:
+Data Engineer
+
+Skills:
+1. sql
+2. etl
+3. big data
+4. data modeling
+5. distributed systems
+6. hive
+7. data warehousing
+8. data structures
+9. hadoop
+10. sqoop
+============================================
+
+Companies:
+IBM India Pvt Ltd
+
+Positions:
 Data Engineer
 
 Skills:
@@ -197,10 +219,12 @@ Skills:
 8. software engineering
 9. triggers
 10. unix
-========
+============================================
 
 Companies:
 IBM India Pvt Ltd
+
+Positions:
 Data Engineer
 
 Skills:
@@ -212,10 +236,12 @@ Skills:
 6. data engineer
 7. database
 8. software engineering
-========
+============================================
 
 Companies:
 IBM India Pvt Ltd
+
+Positions:
 Data Engineer
 
 Skills:
@@ -233,10 +259,34 @@ Skills:
 12. information management
 13. machine learning
 14. splunk
-========
+============================================
 
 Companies:
 IBM India Pvt Ltd
+
+Positions:
+Data Engineer
+
+Skills:
+1. data warehousing expertise
+2. etl tool proficiency
+3. cloud migration skills
+4. sql and big data
+5. unix and python scripting
+6. storage
+7. database
+8. unix shell scripting
+9. data structures
+10. software engineering
+11. information management
+12. machine learning
+13. splunk
+============================================
+
+Companies:
+IBM India Pvt Ltd
+
+Positions:
 Data Engineer
 
 Skills:
@@ -255,10 +305,12 @@ Skills:
 13. hadoop
 14. hbase
 15. infrastructure
-========
+============================================
 
 Companies:
 IBM India Pvt Ltd
+
+Positions:
 Data Engineer
 
 Skills:
@@ -271,10 +323,12 @@ Skills:
 7. data warehousing
 8. hadoop
 9. sqoop
-========
+============================================
 
 Companies:
 IBM India Pvt Ltd
+
+Positions:
 Data Engineer
 
 Skills:
@@ -287,31 +341,13 @@ Skills:
 7. data warehousing
 8. hadoop
 9. sqoop
-========
-
-Companies:
-IBM India Pvt Ltd
-Data Engineer
-
-Skills:
-1. data warehousing expertise
-2. etl tool proficiency
-3. cloud migration skills
-4. sql and big data
-5. unix and python scripting
-6. storage
-7. database
-8. unix shell scripting
-9. data structures
-10. software engineering
-11. information management
-12. machine learning
-13. splunk
-========
+============================================
 
 Companies:
 axmiyan hr solutions private limited
-Data Engineer
+
+Positions:
+
 
 Skills:
 1. reports
@@ -319,10 +355,12 @@ Skills:
 3. database design
 4. database
 5. procedures
-========
+============================================
 
 Companies:
 IBM India Pvt Ltd
+
+Positions:
 Data Engineer
 
 Skills:
@@ -341,10 +379,12 @@ Skills:
 13. software engineering
 14. hbase
 15. infrastructure
-========
+============================================
 
 Companies:
 IBM India Pvt Ltd
+
+Positions:
 Data Engineer
 
 Skills:
@@ -364,10 +404,12 @@ Skills:
 14. information management
 15. machine learning
 16. splunk
-========
+============================================
 
 Companies:
 IBM India Pvt Ltd
+
+Positions:
 Data Engineer
 
 Skills:
@@ -386,10 +428,12 @@ Skills:
 13. hadoop
 14. hbase
 15. infrastructure
-========
+============================================
 
 Companies:
 IBM India Pvt Ltd
+
+Positions:
 Data Engineer
 
 Skills:
@@ -408,10 +452,12 @@ Skills:
 13. software engineering
 14. hbase
 15. infrastructure
-========
+============================================
 
 Companies:
 IBM India Pvt Ltd
+
+Positions:
 Data Engineer
 
 Skills:
@@ -430,10 +476,12 @@ Skills:
 13. hadoop
 14. hbase
 15. infrastructure
-========
+============================================
 
 Companies:
 IBM India Pvt Ltd
+
+Positions:
 Data Engineer
 
 Skills:
@@ -451,23 +499,23 @@ Skills:
 12. software engineering
 13. hadoop
 14. hbase
-========
+============================================
 
 Companies:
-volvo group india pvt ltd
+IBM India Pvt Ltd
+
+Positions:
 Data Engineer
 
 Skills:
-1. data governance management
-2. metadata management
-3. stakeholder communication
-4. data management tools
-5. agile methodologies
-6. data manager
-7. bi
-8. data modeling
-9. data transformation
-10. infrastructure
-11. informatica
-========
+1. data modeling
+2. software integration
+3. sql proficiency
+4. api development
+5. time management
+6. plsql
+7. database
+8. software engineering
+9. middleware
+============================================
 
